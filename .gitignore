@@ -1,0 +1,8 @@
+*.interp
+*.tokens
+ArithmeticListener.py
+ArithmeticParser.py
+ArithmeticLexer.py
+__pycache__/
+.venv/
+*.pyc
